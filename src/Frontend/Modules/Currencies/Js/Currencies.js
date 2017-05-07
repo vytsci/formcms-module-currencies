@@ -1,0 +1,4 @@
+jsFrontend.Currencies = {
+
+};
+
